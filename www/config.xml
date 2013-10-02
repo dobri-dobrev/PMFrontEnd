@@ -1,0 +1,4 @@
+<plugin name="Contacts" value="CDVContacts" />
+<plugin name="Media" value="CDVSound" />
+<plugin name="File" value="CDVFile" />
+<plugin name="FileTransfer" value="CDVFileTransfer" />
